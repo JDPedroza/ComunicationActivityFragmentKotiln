@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ComunicationActivityFragmentKotiln</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="titulo_main_activity">Main Activity</string>
+    <string name="titulo_main_fragment">Main Fragment</string>
+
+    <string name="min">0</string>
+    <string name="max">10</string>
+
+    <string name="limite_inferior">Min</string>
+    <string name="limite_superior">Max</string>
+    <string name="error_limites">Los límites introducidos no son correctos</string>
+
+    <string name="numero_aleatorio">Número aleatorio</string>
+    <string name="numero_aleatorio_actualizado">Nuevo número aleatorio: %1$s</string>
+</resources>
